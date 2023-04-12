@@ -1,5 +1,7 @@
 # go-im
 
+[chinese doc](README-CN.md)
+
 This project aims to implement a comprehensive IM system, which is not without the component of re-inventing the wheel, 
 but as a GoLang beginner, I hope to learn the various features of GoLang through this project, and at the same time I hope to help other beginners.
 
